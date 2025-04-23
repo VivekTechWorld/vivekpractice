@@ -16,8 +16,7 @@ int main() {
 
   bool d;
   cout << "size of bool:"<<sizeof(d)<<endl;
-
-  short int abc;
+  
   cout << "size of short int :"<<sizeof(abc)<<endl;
 
   long int v=10;
